@@ -17,13 +17,12 @@ export const categories = [
 ];
 
 const pathTravis =
-  "/src/media/Travis Scott - TIL FURTHER NOTICE (Official Audio) ft. James Blake 21 Savage.mp4";
+  "/media/Travis Scott - TIL FURTHER NOTICE (Official Audio) ft. James Blake 21 Savage.mp4";
 
 const pathRocketseat =
-  "/src/media/Criando UI no React na velocidade da luz! (shadcn ui).mp4";
+  "/media/Criando UI no React na velocidade da luz! (shadcn ui).mp4";
 
-const pathJovemTranquilao =
-  "/src/media/NOSSAS PRÓXIMAS VIAGENS DAILYVLOG 481.mp4";
+const pathJovemTranquilao = "/media/NOSSAS PRÓXIMAS VIAGENS DAILYVLOG 481.mp4";
 
 export const videos = [
   {
